@@ -10,15 +10,18 @@ body {
     padding: 10px;
 }
 
+
 .navbar a {
-    color: white;
+    color: rgba(6, 6, 128, 0.892);
     padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
     text-decoration: none;
     margin-left: 10px;
 }
 
 .navbar a:hover {
-    color: lightgray;
+    color: rgb(6, 93, 107);
 }
 
 
