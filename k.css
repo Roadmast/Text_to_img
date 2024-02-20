@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #093351;
+  }
+
+  .navbar {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+}
+
+.navbar a {
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.navbar a:hover {
+    color: lightgray;
+}
+
+
+  h2 {
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+  }
+  p{
+    padding: 30px;
+    font-size: 20px;
+  }
+
+  /* CSS */
+  .button-19 {
+    appearance: button;
+    background-color: #1899D6;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-family: din-round,sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: .8px;
+    line-height: 20px;
+    width: 50%;
+    margin: 0;
+    outline: none;
+    overflow: visible;
+    padding: 13px 16px;
+    text-align: center;
+    text-transform: uppercase;
+    touch-action: manipulation;
+    transform: translateZ(0);
+    transition: filter .2s;
+    user-select: none;
+    -webkit-user-select: none;
+    vertical-align: middle;
+    white-space: nowrap;
+    width: 100%;
+  }
+  
+  .button-19:after {
+    background-clip: padding-box;
+    background-color: #1CB0F6;
+    border: solid transparent;
+    border-radius: 16px;
+    border-width: 0 0 4px;
+    bottom: -4px;
+    content: "";
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    z-index: -1;
+  }
+  
+  .button-19:main,
+  .button-19:focus {
+    user-select: auto;
+  }
+  
+  .button-19:hover:not(:disabled) {
+    filter: brightness(1.1);
+    -webkit-filter: brightness(1.1);
+  }
+  
+  .button-19:disabled {
+    cursor: auto;
+  }
+  
+  .button-19:active {
+    border-width: 4px 0 0;
+    background: none;
+  }
+  
+  .container {
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    box-sizing: border-box;
+    background-color: aqua;
+  }
+
+  .hed {
+    text-align: center;
+  }
+  
+  .box {
+    display: flex;
+    border: 1px solid #ccc;
+    justify-content: space-between;
+    align-items: center;
+    height: 600px;
+    margin-top: 30px;
+    margin-bottom: 150px;
+    
+
+  }
+  
+  .left {
+    flex: 1;
+    margin-left: 30px;
+    margin-top: 30px;
+    padding: 30px;
+  }
+  
+  .right {
+    flex: 1;
+    padding: 0px;
+    
+  }
+  
+  img {
+    width: 540px;
+    height:540px;
+    margin-bottom: 30px;
+
+  }
+  
+
+
+  
+h1{
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+  
