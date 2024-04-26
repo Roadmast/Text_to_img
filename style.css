@@ -62,7 +62,7 @@ body {
   }
   
   .navbar-nav .nav-item .nav-link:hover {
-    color: gray;
+    color: white;
   }
 .navbar {
     background-color: transparent !important;
