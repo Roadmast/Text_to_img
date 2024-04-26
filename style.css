@@ -57,12 +57,12 @@ body {
   }
   
   .navbar-nav .nav-item .nav-link:hover {
-    background-color: rgb(15, 7, 131);
-    color: black;
+    background-color: black;
+    color: white;
   }
   
   .navbar-nav .nav-item .nav-link:hover {
-    color: rgb(20, 152, 234);
+    color: gray;
   }
 .navbar {
     background-color: transparent !important;
